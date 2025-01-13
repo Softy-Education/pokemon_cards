@@ -1,0 +1,11 @@
+@use "../../assets/styles/variables" as *;
+
+.type-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 21px;
+  justify-content: center;
+  margin: 33px auto 83px;
+  width: 688px;
+  max-width: 100%;
+}
